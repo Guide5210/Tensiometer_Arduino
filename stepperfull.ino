@@ -1,3 +1,9 @@
+#include <HX711_ADC.h>
+
+#include <HX711_ADC.h>
+
+#include <Adafruit_HX711.h>
+
 #include <AccelStepper.h>
 // #include <TMCStepper.h> // ถ้าต้องการควบคุม TMC2209 ผ่าน UART
 
