@@ -1,0 +1,37 @@
+============================================================
+AUTO SPEED TEST SUMMARY
+============================================================
+
+Test 1: ULTRA_FAST
+  Speed: 1000.000000 mm/s
+  Duration: 43.06 sec
+  Samples: 2153
+  Max Vibration: 3.6502 m/s²
+  Mean Vibration: 0.2139 m/s²
+  Std Deviation: 0.2310 m/s²
+
+Test 2: FAST_UP
+  Speed: 250.000000 mm/s
+  Duration: 160.20 sec
+  Samples: 8010
+  Max Vibration: 0.4291 m/s²
+  Mean Vibration: 0.1095 m/s²
+  Std Deviation: 0.1025 m/s²
+
+Test 3: FAST_DOWN
+  Speed: 250.000000 mm/s
+  Duration: 160.20 sec
+  Samples: 8010
+  Max Vibration: 4.4278 m/s²
+  Mean Vibration: 0.1192 m/s²
+  Std Deviation: 0.1226 m/s²
+
+Test 4: MEASURE_F
+  Speed: 0.031250 mm/s
+  Duration: 156.90 sec
+  Samples: 7845
+  Max Vibration: 0.5131 m/s²
+  Mean Vibration: 0.1156 m/s²
+  Std Deviation: 0.0807 m/s²
+
+============================================================
